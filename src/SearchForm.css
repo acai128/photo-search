@@ -1,0 +1,21 @@
+/* .Container {
+  padding: 50px;
+  width: 100%; 
+} */
+
+.image {
+  flex: 100%;
+  border-radius: 80px;
+}
+
+.search {
+  text-align: center;
+}
+
+body {
+  background-color: lightblue;
+}
+
+.title {
+  color: white; 
+}
