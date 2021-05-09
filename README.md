@@ -1,4 +1,4 @@
-#Photo Search Engine 
+# Photo Search Engine 
 
 Photo Search is a tool used to find pictures by entering a key word in the search field.
 <!-- 
@@ -11,14 +11,15 @@ Deployed site: https://acai128.github.io/image-search/ -->
 * HTML
 * CSS 
 * Pixabay API 
+* Cloudinary 
 
 ## Features
 
-User enters key word in search field and click "Search" button to get results of pictures 
+# User enters key word in search field and click "Search" button to get results of pictures 
 
 <!-- ![](recording(1).gif) -->
 
-User can upload their picture
+# User can upload their own picture
 
 ## Installation
 

@@ -32,7 +32,7 @@ function SearchForm(){
         name="photo" 
         placeholder="Enter keyword(s)"
         />
-        <button onClick={handleClick} type="submit">Search</button>
+        <button data-testid="search-button" onClick={handleClick} type="submit">Search</button>
         <ImageUpload />
         {result.map((img) => {
           return (

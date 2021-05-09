@@ -33,6 +33,7 @@ function ImageUpload(){
         name="file"
         placeholder="Upload an image"
         onChange={uploadImage}
+        data-testid="choose_file"
       />
       {loading ? (
         <h3>Uploading...</h3>
